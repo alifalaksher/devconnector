@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://alifalaksher3636:QNlriogNRcoFrUB6@devconnector.kclzwao.mongodb.net/",
+    "jwt": "jwtSecretCode",
+    "githubClientId":"3e50cd5b22380f2537ad",
+    "githubClientSecret":"ba21d97765a8ea32545e948dc937faa4e21ff820"
+}
